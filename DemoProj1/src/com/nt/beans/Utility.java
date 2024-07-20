@@ -4,18 +4,16 @@ import java.util.Date;
 
 public class Utility {
 
-          public Date getSysDate() 
-       {
-        	  return new  Date();
-       }
-          public void m1() {
+	public Date getSysDate() {
+		return new Date();
+	}
 
-        	  
-        	  System.out.println("Utility m1() method:abcdefgh");
+	public void m1() {
 
-        	 System.out.println("Vimlesh Kuamr Singh");
+		System.out.println("Utility m1() method:abcdefgh");
 
-          }
-	
+		System.out.println("Vimlesh Kuamr Singh");
+
+	}
 
 }
