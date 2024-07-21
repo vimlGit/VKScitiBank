@@ -18,5 +18,8 @@ public class Utility {
 	public void main() {
 		System.out.println("Utility.main()");
 	}
+	public void m4() {
+		System.out.println("Utility.m4()");
+	}
 
 }
