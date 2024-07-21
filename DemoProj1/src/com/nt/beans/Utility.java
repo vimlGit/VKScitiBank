@@ -15,5 +15,8 @@ public class Utility {
 		System.out.println("Vimlesh Kuamr Singh");
 
 	}
+	public void main() {
+		System.out.println("Utility.main()");
+	}
 
 }
